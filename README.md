@@ -1,4 +1,4 @@
-# All about Java Script
+# All about Java Script (Lead's file)
 JavaScript is the programming language of _HTML_ and the **Web**.
 Programming makes __computers__ do what you want them to do.
 JavaScript is ~~hard~~ *easy* to learn.
